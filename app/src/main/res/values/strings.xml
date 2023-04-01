@@ -1,0 +1,20 @@
+<resources>
+    <string name="titulo0">reciclaApp </string>
+    <string name="titulo1">appAmbiental es una aplicacion la cual ayuda a mejor el ambiente del planeta</string>
+    <string name="titulo2">siguiente</string>
+    <string name="titulo3">recicla ya</string>
+    <string name="titulo4">menu</string>
+    <string name="titulo5">tipos</string>
+    <string name="titulo6">metodos</string>
+    <string name="btn">ver</string>
+    <string name="titulo8">siguiente</string>
+    <string name="titulo9">aprende mas sobre reciclaje</string>
+    <string name="titulo10">noticias sobre reciclaje</string>
+    <string name="titulo11">aprende y reutiliza</string>
+    <string name="titulo12">appAmbiental</string>
+    <string name="titulo13"></string>
+    <string name="titulo14">reciduos biologicos</string>|
+    <string name="titulo15">reciduos organicos</string>|
+
+
+</resources>
